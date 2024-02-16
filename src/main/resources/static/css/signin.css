@@ -1,0 +1,12 @@
+.sns-List li:nth-child(3) a img{
+    position:absolute;
+    height:40px;
+    left:-83px;
+    top:0px;
+}
+
+.errors{
+    color:red;
+    font-size:13px;
+    padding:5px;
+}
